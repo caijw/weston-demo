@@ -1,6 +1,10 @@
 hello_wayland
 =============
 
+原文 <https://hdante.wordpress.com/2014/07/08/the-hello-wayland-tutorial/>
+
+中文翻译 <https://www.robberphex.com/hello-wayland-wayland-tutorial/>
+
 A hello world application for Wayland.
 
 **Note**: this example uses [wl_shell](https://wayland.freedesktop.org/docs/html/apa.html#protocol-spec-wl_shell), a Wayland interface deprecated in favor of [xdg-shell](https://cgit.freedesktop.org/wayland/wayland-protocols/tree/stable/xdg-shell). A similar client, updated to use xdg-shell, is available here: https://github.com/emersion/hello-wayland
